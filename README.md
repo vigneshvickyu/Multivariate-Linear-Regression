@@ -5,21 +5,20 @@ To write a python program to implement multivariate linear regression and predic
 1.	Hardware – PCs
 2.	Anaconda – Python 3.7 Installation / Moodle-Code Runner
 ## Algorithm:
-### Step1
+### Step1:Get the two values from the user
 <br>
 
-### Step2
+### Step2:Assign the value of second variable to a temporary variabl
 <br>
 
-### Step3
+### Step3:Assign the value of the first variable to the second variable.
 <br>
 
-### Step4
+### Step4:Assign the value in temporary variable to the first variable
 <br>
 
-### Step5
+### Step5:Print both the values it would be interchanged
 <br>
-
 ## Program:
 ```
 #program for Implementation of Multivariate Linear Regression
