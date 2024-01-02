@@ -34,8 +34,10 @@ regr.fit(a,b)
 print("Coefficient: ",regr.coef_)
 print("Intercept:",regr.intercept_)
 print("Account",regr.predict([[3300,1300]]))
+
 ## Output:
 ![Screenshot 2024-01-02 221329](https://github.com/vigneshvickyu/Multivariate-Linear-Regression/assets/151948835/bd2a5bad-84cf-4a29-aa00-321160df2e2e)
+
 ### Insert your output
 
 <br>
